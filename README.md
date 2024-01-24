@@ -1,3 +1,11 @@
-<img alt="Python" src ="https://img.shields.io/badge/Python-#3776AB.svg?&style=flat-square&logo=PYTHON&logoColor=white"/>
+## [ Technical Stack ]
+### - Embedded SW knowledge
+### - Development Language: C(++), Java, Python
+### - Development Environment: jira, svn, jenkins, codebeamer
+<br/><br/>
+## [ More Needed ]
+### - Embedded SW development experience.
+### - ECU platform SW development experience.
+### - English communication skills.
 
 
